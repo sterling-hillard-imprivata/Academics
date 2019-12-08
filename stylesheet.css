@@ -1,4 +1,13 @@
 /*--------------links----------*/
-a.class{
+div.link a{
     text-align: right;
+    
+}
+
+a {
+text-decoration:none;
+}
+
+a:hover{
+text-decoration:underline;
 }

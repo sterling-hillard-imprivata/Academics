@@ -1,7 +1,6 @@
 /*--------------links----------*/
 div.link a{
-    text-align: right;
-    padding: 10px;
+    margin-right:10px;
 }
 
 a {
